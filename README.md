@@ -39,22 +39,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 <img width="919" alt="image" src="https://github.com/1808charitha/EXNO2DS/assets/132996838/4886fd51-b40c-4050-8106-b5c77e3d4800">
 <img width="897" alt="image" src="https://github.com/1808charitha/EXNO2DS/assets/132996838/cc87347f-721a-42c7-8c9a-0c2364417063">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
 # RESULT
-          Thus the data analysis has been implemented succesfully.
+Thus the data analysis has been implemented succesfully.
